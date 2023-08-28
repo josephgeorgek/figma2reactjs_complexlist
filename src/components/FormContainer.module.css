@@ -1,0 +1,170 @@
+.rectangle {
+  position: absolute;
+  height: 100%;
+  width: 99.69%;
+  top: 0;
+  right: 0.23%;
+  bottom: 0;
+  left: 0.08%;
+  border-radius: 0 0 var(--br-xs) var(--br-xs);
+  background-color: var(--neutrals-white-100);
+}
+.fill {
+  position: absolute;
+  height: 0.13%;
+  width: 100%;
+  top: 9.03%;
+  right: 0;
+  bottom: 90.84%;
+  left: 0;
+  background-color: var(--neutrals-off-white);
+}
+.jpMorganChase {
+  margin: 0;
+  font-size: var(--px-semibold-size);
+  line-height: 24px;
+}
+.parkAvenueNew {
+  margin: 0;
+  line-height: 20px;
+}
+.inputText,
+.inputText1 {
+  position: absolute;
+  top: 15.09%;
+  left: 0;
+}
+.inputText1 {
+  top: 84.91%;
+  font-size: var(--px-semibold-size);
+  line-height: 24px;
+}
+.label,
+.label1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 20px;
+  font-family: var(--px-semibold);
+  color: var(--neutrals-basic-700);
+}
+.label1 {
+  top: 69.81%;
+}
+.inputTextParent {
+  position: absolute;
+  height: 20.23%;
+  width: 19.02%;
+  top: 13.23%;
+  right: 7.09%;
+  bottom: 66.54%;
+  left: 73.89%;
+  font-family: var(--font-helvetica);
+}
+.inputText2,
+.label2 {
+  position: absolute;
+  top: 20%;
+  left: 0;
+  line-height: 24px;
+}
+.label2 {
+  top: 0;
+  line-height: 20px;
+  color: var(--neutrals-basic-700);
+}
+.inputText3,
+.label3 {
+  position: absolute;
+  top: 80%;
+  left: 0;
+  line-height: 24px;
+}
+.label3 {
+  top: 60%;
+  line-height: 20px;
+  color: var(--neutrals-basic-700);
+}
+.inputTextGroup {
+  position: absolute;
+  height: 15.27%;
+  width: 8.18%;
+  top: 13.23%;
+  right: 66.8%;
+  bottom: 71.5%;
+  left: 25.02%;
+}
+.inputText4,
+.inputText5,
+.inputText6,
+.inputText7 {
+  position: absolute;
+  top: 12.5%;
+  left: 0;
+  line-height: 24px;
+}
+.inputText5,
+.inputText6,
+.inputText7 {
+  top: 50%;
+}
+.inputText6,
+.inputText7 {
+  left: 84.05%;
+  font-weight: 600;
+  color: var(--functional-blue-900);
+}
+.inputText7 {
+  top: 12.5%;
+}
+.label5 {
+  position: absolute;
+  top: 37.5%;
+  left: 0;
+  line-height: 20px;
+  color: var(--neutrals-basic-700);
+}
+.inputText8,
+.label6 {
+  position: absolute;
+  top: 87.5%;
+  left: 0;
+  line-height: 24px;
+}
+.label6 {
+  top: 75%;
+  line-height: 20px;
+  color: var(--neutrals-basic-700);
+}
+.groupDiv,
+.inputTextContainer,
+.swiftDetails {
+  position: absolute;
+  height: 24.43%;
+  width: 18.08%;
+  top: 13.23%;
+  right: 37.41%;
+  bottom: 62.34%;
+  left: 44.51%;
+}
+.groupDiv,
+.swiftDetails {
+  height: 15.27%;
+  width: 10.52%;
+  right: 86.28%;
+  bottom: 71.5%;
+  left: 3.2%;
+}
+.swiftDetails {
+  height: 45.7%;
+  width: 89.1%;
+  top: 39.13%;
+  right: 5.42%;
+  bottom: 15.17%;
+  left: 5.49%;
+  cursor: pointer;
+  text-align: left;
+  font-size: var(--px-semibold-sentence-size);
+  color: var(--neutrals-basic-900);
+  font-family: var(--px-semibold);
+}

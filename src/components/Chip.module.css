@@ -1,0 +1,19 @@
+.b,
+.chip {
+  position: relative;
+}
+.chip {
+  border-radius: var(--br-81xl);
+  background-color: var(--functional-yellow-900);
+  height: 21px;
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-11xs) var(--padding-5xs);
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--neutrals-white-100);
+  font-family: var(--px-semibold);
+}

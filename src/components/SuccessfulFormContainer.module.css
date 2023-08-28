@@ -1,0 +1,145 @@
+.groupChild {
+  position: absolute;
+  height: 7.74%;
+  width: 81.76%;
+  top: -0.27%;
+  right: 9.35%;
+  bottom: 92.53%;
+  left: 8.89%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupItem {
+  position: absolute;
+  height: 54.8%;
+  width: 19.53%;
+  top: 21.35%;
+  right: 80.47%;
+  bottom: 23.84%;
+  left: 0;
+  border-radius: var(--br-xs);
+  background-color: var(--neutrals-grey-50-100);
+}
+.labelCopy {
+  top: 54.8%;
+  left: 3.31%;
+  line-height: 20px;
+}
+.fromOcbcBank,
+.labelCopy,
+.usd14512 {
+  position: absolute;
+  font-weight: 600;
+}
+.fromOcbcBank {
+  top: 32.38%;
+  left: 3.14%;
+  font-size: var(--px-semibold-sentence-size);
+}
+.usd14512 {
+  top: 40.57%;
+  left: 3.23%;
+  color: var(--color-slategray-100);
+}
+.groupInner {
+  position: absolute;
+  height: 54.8%;
+  width: 19.53%;
+  top: 21.35%;
+  right: 54.05%;
+  bottom: 23.84%;
+  left: 26.42%;
+  border-radius: var(--br-xs);
+  background-color: var(--neutrals-grey-50-100);
+}
+.fromOcbcBank1,
+.labelCopy1 {
+  position: absolute;
+  font-weight: 600;
+}
+.labelCopy1 {
+  top: 56.58%;
+  left: 29.73%;
+  line-height: 20px;
+}
+.fromOcbcBank1 {
+  top: 32.38%;
+  left: 32.96%;
+  font-size: var(--px-semibold-sentence-size);
+}
+.rectangleDiv {
+  position: absolute;
+  height: 78.65%;
+  width: 19.53%;
+  top: 21.35%;
+  right: 27.03%;
+  bottom: 0;
+  left: 53.44%;
+  border-radius: var(--br-xs);
+  background-color: var(--neutrals-grey-50-100);
+}
+.labelCopy2,
+.usd145121 {
+  position: absolute;
+  left: 56.67%;
+}
+.labelCopy2 {
+  width: 14.21%;
+  top: 58.01%;
+  line-height: 20px;
+  display: inline-block;
+}
+.usd145121 {
+  top: 49.11%;
+  font-size: var(--px-semibold-sentence-size);
+  line-height: 21px;
+  color: var(--color-slategray-100);
+}
+.groupChild1 {
+  position: absolute;
+  height: 33.45%;
+  width: 19.53%;
+  top: 21.35%;
+  right: 0;
+  bottom: 45.2%;
+  left: 80.47%;
+  border-radius: var(--br-xs);
+  background-color: var(--neutrals-grey-50-100);
+}
+.fromOcbcBank2 {
+  top: 32.38%;
+  left: 59.9%;
+  font-size: var(--px-semibold-sentence-size);
+  text-align: center;
+}
+.fromOcbcBank2,
+.fromOcbcBank3,
+.usd145122 {
+  position: absolute;
+  font-weight: 600;
+}
+.fromOcbcBank3 {
+  top: 32.38%;
+  left: 87.18%;
+  font-size: var(--px-semibold-sentence-size);
+  color: var(--neutrals-grey-300-100);
+}
+.usd145122 {
+  top: 40.57%;
+  left: 29.73%;
+  color: var(--color-slategray-100);
+}
+.groupParent {
+  position: absolute;
+  height: 16.34%;
+  width: 79.65%;
+  top: 60.41%;
+  right: 10.28%;
+  bottom: 23.26%;
+  left: 10.07%;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-darkslategray-100);
+  font-family: var(--px-semibold);
+}

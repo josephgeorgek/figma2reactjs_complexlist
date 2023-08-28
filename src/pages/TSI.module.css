@@ -1,0 +1,146 @@
+.blueBg {
+  position: absolute;
+  height: 88.72%;
+  width: 100%;
+  top: 11.28%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-whitesmoke-100);
+}
+.clearIcon,
+.transferMoney {
+  position: absolute;
+  top: 2.91%;
+  left: 7.36%;
+}
+.clearIcon {
+  height: 2.09%;
+  width: 2.5%;
+  top: 2.5%;
+  right: 3.61%;
+  bottom: 95.41%;
+  left: 93.89%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.transferMoney1 {
+  position: absolute;
+  top: 0;
+  left: 174px;
+}
+.transferMoney2,
+.transferMoney3 {
+  position: absolute;
+  top: 0;
+  left: 373px;
+}
+.transferMoney3 {
+  left: 559px;
+}
+.groupChild,
+.transferMoney4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.groupChild {
+  top: 38px;
+  background-color: var(--color-darkslategray-200);
+  width: 142px;
+  height: 2px;
+}
+.transferMoneyGroup,
+.transferMoneyParent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 142px;
+  height: 40px;
+  color: var(--color-darkslategray-200);
+}
+.transferMoneyParent {
+  top: 138px;
+  left: 106px;
+  width: 704px;
+  font-size: var(--font-size-3xl);
+  color: var(--color-lightsteelblue);
+}
+.filterTagParent {
+  position: absolute;
+  top: 347px;
+  left: 97px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+}
+.allPayees,
+.allPayees1,
+.allPayees2 {
+  position: absolute;
+  top: 2px;
+  left: 848px;
+}
+.allPayees1,
+.allPayees2 {
+  left: 1105px;
+}
+.allPayees2 {
+  left: 722px;
+}
+.allPayees3,
+.allPayees4,
+.allPayees5 {
+  position: absolute;
+  top: 2px;
+  left: 0;
+}
+.allPayees4,
+.allPayees5 {
+  left: 162px;
+}
+.allPayees5 {
+  left: 577px;
+  text-align: right;
+}
+.infoIcon {
+  position: absolute;
+  top: 0;
+  left: 1154px;
+  width: 24px;
+  height: 24px;
+}
+.allPayeesParent,
+.groupInner,
+.groupItem {
+  position: absolute;
+  top: 6px;
+  left: 83px;
+  width: 7px;
+  height: 11px;
+}
+.allPayeesParent,
+.groupInner {
+  left: 643px;
+}
+.allPayeesParent {
+  top: 438px;
+  left: 100px;
+  width: 1178px;
+  height: 24px;
+  font-size: var(--px-semibold-sentence-size);
+}
+.tsi {
+  position: relative;
+  background-color: var(--neutrals-white-100);
+  width: 100%;
+  height: 1720px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-darkslategray-200);
+  font-family: var(--px-semibold);
+}

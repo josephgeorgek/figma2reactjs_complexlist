@@ -1,0 +1,243 @@
+.blueBg {
+  position: absolute;
+  height: 88.72%;
+  width: 100%;
+  top: 11.28%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-whitesmoke-100);
+}
+.transferMoney {
+  position: absolute;
+  top: 2.91%;
+  left: 7.36%;
+  font-size: var(--font-size-13xl);
+}
+.clearIcon {
+  height: 2.09%;
+  width: 2.5%;
+  top: 2.5%;
+  right: 3.61%;
+  bottom: 95.41%;
+  left: 93.89%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.clearIcon,
+.div,
+.rectangle {
+  position: absolute;
+}
+.rectangle {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-xs);
+  background-color: var(--neutrals-white-100);
+}
+.div {
+  top: 41px;
+  left: 876px;
+  font-size: var(--font-size-xs);
+  color: var(--color-darkslategray-400);
+}
+.andrewTang1234567 {
+  position: absolute;
+  width: 7.74%;
+  top: 22.39%;
+  left: 88.58%;
+  line-height: 15px;
+  display: inline-block;
+  color: var(--functional-yellow-900);
+  opacity: 0.7;
+}
+.andrewTang12345671 {
+  position: absolute;
+  width: 10.79%;
+  top: 20.9%;
+  left: 52.46%;
+  font-weight: 600;
+  display: inline-block;
+}
+.andrewTang12345672,
+.andrewTang12345673,
+.andrewTang12345674 {
+  position: absolute;
+  top: 35.82%;
+  left: 58.64%;
+  font-weight: 600;
+}
+.andrewTang12345673,
+.andrewTang12345674 {
+  left: 2.19%;
+}
+.andrewTang12345674 {
+  top: 19.4%;
+  left: 14.7%;
+}
+.div1 {
+  position: absolute;
+  top: 40px;
+  left: 188px;
+  font-size: var(--font-size-xs);
+  color: var(--color-darkslategray-400);
+}
+.andrewTang12345675 {
+  position: absolute;
+  top: 20.9%;
+  left: 68.49%;
+  font-weight: 600;
+}
+.andrewTang12345676 {
+  position: absolute;
+  width: 7.74%;
+  top: 40.3%;
+  left: 44.33%;
+  display: inline-block;
+  text-align: right;
+}
+.iconutilitychevRightthick {
+  position: absolute;
+  height: 8.96%;
+  width: 0.97%;
+  top: 47.76%;
+  right: 1.92%;
+  bottom: 43.28%;
+  left: 97.11%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.rectangleParent {
+  position: absolute;
+  height: 3.9%;
+  width: 88.82%;
+  top: 39.13%;
+  right: 5.69%;
+  bottom: 56.98%;
+  left: 5.49%;
+  cursor: pointer;
+}
+.transferMoney1 {
+  position: absolute;
+  top: 0;
+  left: 174px;
+}
+.transferMoney2,
+.transferMoney3 {
+  position: absolute;
+  top: 0;
+  left: 373px;
+}
+.transferMoney3 {
+  left: 559px;
+}
+.groupChild,
+.transferMoney4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.groupChild {
+  top: 38px;
+  background-color: var(--color-darkslategray-200);
+  width: 142px;
+  height: 2px;
+}
+.transferMoneyGroup,
+.transferMoneyParent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 142px;
+  height: 40px;
+  color: var(--color-darkslategray-200);
+}
+.transferMoneyParent {
+  top: 138px;
+  left: 106px;
+  width: 704px;
+  font-size: var(--font-size-3xl);
+  color: var(--color-lightsteelblue);
+}
+.filterTagParent {
+  position: absolute;
+  top: 347px;
+  left: 97px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+}
+.allPayees,
+.allPayees1,
+.allPayees2 {
+  position: absolute;
+  top: 2px;
+  left: 848px;
+}
+.allPayees1,
+.allPayees2 {
+  left: 1105px;
+}
+.allPayees2 {
+  left: 722px;
+}
+.allPayees3,
+.allPayees4,
+.allPayees5 {
+  position: absolute;
+  top: 2px;
+  left: 0;
+}
+.allPayees4,
+.allPayees5 {
+  left: 162px;
+}
+.allPayees5 {
+  left: 577px;
+  text-align: right;
+}
+.infoIcon {
+  position: absolute;
+  top: 0;
+  left: 1154px;
+  width: 24px;
+  height: 24px;
+}
+.allPayeesParent,
+.groupInner,
+.groupItem {
+  position: absolute;
+  top: 6px;
+  left: 83px;
+  width: 7px;
+  height: 11px;
+}
+.allPayeesParent,
+.groupInner {
+  left: 643px;
+}
+.allPayeesParent {
+  top: 438px;
+  left: 100px;
+  width: 1178px;
+  height: 24px;
+}
+.tsi {
+  position: relative;
+  background-color: var(--neutrals-white-100);
+  width: 100%;
+  height: 1720px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--px-semibold-sentence-size);
+  color: var(--color-darkslategray-200);
+  font-family: var(--px-semibold);
+}
